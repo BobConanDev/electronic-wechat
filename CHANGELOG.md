@@ -25,8 +25,8 @@
 7. Add two shortcuts (Thanks to @awmleer)
 	- Search Contact人: **`Ctrl + F`**
 	- Toggle Fullscreen Mode: **macOS** **`Ctrl + Command + F`**, **Linux** **`F11`**
-8. Fix unfunctional menu items on **Linux** (Thanks to @qzchenwl)
-8. All thrid party libraries are up-to-date
+8. Fix nonfunctional menu items on **Linux** (Thanks to @qzchenwl)
+8. All third party libraries are up-to-date
 
 
 **v1.3 (2016.05.19)**
